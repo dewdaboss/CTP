@@ -1,0 +1,9 @@
+{
+  "name": "creative-team-production-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Creator-led reels and brand film portfolio",
+  "scripts": {
+    "start": "python3 -m http.server 4173 --bind 0.0.0.0"
+  }
+}
